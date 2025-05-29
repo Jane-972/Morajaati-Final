@@ -1,0 +1,10 @@
+services:
+  db:
+    image: postgres:13
+    container_name: morajaati_db
+    environment:
+      POSTGRES_USER: wafae
+      POSTGRES_PASSWORD: wafae
+      POSTGRES_DB: morajaati
+    ports:
+      - "15432:5432"

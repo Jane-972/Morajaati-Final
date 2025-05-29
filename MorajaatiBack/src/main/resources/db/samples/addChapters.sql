@@ -1,0 +1,5 @@
+INSERT INTO course_chapters (id, title, description, course_id, created_at) VALUES
+                            ('f2e3bb18-6d6f-4b78-888f-d1c7dc3f69c9', 'Introduction to Number Theory', 'Overview of number theory and its historical significance.', 'd71d3cb6-e12e-46a4-89c6-1f853060c1c6', '2023-03-01 08:00:00'),
+                            ('72c49b41-8a91-4c89-9f1a-8bc183ecb334', 'Divisibility and Primes', 'Basic properties of integers, divisibility rules, and prime numbers.', 'd71d3cb6-e12e-46a4-89c6-1f853060c1c6', '2023-03-03 08:00:00'),
+                            ('34f871d1-cf3d-4ad1-a981-c1e1ad8f129e', 'Greatest Common Divisor and Euclidean Algorithm', 'Finding GCDs and using the Euclidean algorithm efficiently.', 'd71d3cb6-e12e-46a4-89c6-1f853060c1c6', '2023-03-05 08:00:00'),
+                            ('34b94a6a-f31b-4c9b-996e-460f7d4ac75c', 'Modular Arithmetic', 'Operations and congruences in modular systems with applications.', 'd71d3cb6-e12e-46a4-89c6-1f853060c1c6', '2023-03-07 08:00:00')
