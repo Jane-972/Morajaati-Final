@@ -22,5 +22,6 @@ Ce dépôt contient les deux parties du projet :
 - React Native
 - Axios
 - Stripe React Native SDK
+- Expo
 
 ---
